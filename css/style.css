@@ -801,6 +801,10 @@ a:hover {
     font-weight: bold;
   }
 
+  .connect-icon {
+    display: flex;
+  }
+
   .btn-connect-icon {
     float: left;
     margin-left: 15px;
